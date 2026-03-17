@@ -12,3 +12,6 @@ Completed Angela Day 6 (Functions). Pushed to GitHub.
 Completed Angela Day 7 – Hangman project.
 ## Mar 13, 2026 – Day 8
 Completed Angela Day 8 – Caesar Cipher and Love Calculator. Pushed to GitHub.
+## Mar 15, 2026 – Day 9
+Completed Angela Day 9 – Silent Auction.
+## Mar 17, 2026 – DSA linear search
