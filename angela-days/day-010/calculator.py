@@ -44,7 +44,7 @@ def calculator():
         answer = operations[operation_symbol](num1, num2)
         print(f"{num1} {operation_symbol} {num2} = {answer}")
 
-        choice = input(f"type 'y' to continue with {answer}, or type 'n' to restart")
+        choice = input(f"type 'y' to continue with {answer}, or type 'n' to restart: ")
         if choice == "y":
             num1 = answer
         else:
